@@ -1,0 +1,14 @@
+{
+    "name": "hard",
+    "version": "1.0.0",
+    "description": "hard challenge",
+    "main": "script.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "FROYLAN RAMIREZ",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }

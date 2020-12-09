@@ -1,0 +1,64 @@
+{
+    "workers":[
+        {
+            "name":"froylan ramirez",
+            "id":1,
+            "salary":1000000000,
+            "department":"level 99999 boss"
+        },
+        {
+            "name":"lionel messi",
+            "id":2,
+            "salary":450000,
+            "department":"soccer player"
+        },
+        {
+            "name":"cristiano ronaldo",
+            "id":4,
+            "salary":350000,
+            "department":"soccer player"
+        },
+        {
+            "name":"latori miller",
+            "id":3,
+            "salary":70000,
+            "department":"R2H tech teacher"
+        },
+        {
+            "name":"reggie johnson",
+            "id":5,
+            "salary":80000,
+            "department":"smooth dude"
+        },
+        {
+            "name":"Dyl trimble",
+            "id":6,
+            "salary":80000,
+            "department":"Another smooth dude"
+        },
+        {
+            "name":"treena Chaudhuri",
+            "id":7,
+            "salary":60000,
+            "department":"R2H PD teacher"
+        },
+        {
+            "name":"diego rodriguez",
+            "id":9,
+            "salary":10,
+            "department":"trash Call of Duty player"
+        },
+        {
+            "name":"TJ Hunt",
+            "id":8,
+            "salary":300000,
+            "department":"merch seller and youtube creator"
+        },
+        {
+            "name":"FreshKicks",
+            "id":10,
+            "salary":117000,
+            "department":"youtube creator"
+        }
+    ]
+}
